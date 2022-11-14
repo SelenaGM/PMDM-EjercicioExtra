@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PMDM-EjercicioExtra</string>
+
+    <string name="gol_local">Gol local</string>
+    <string name="gol_visitante">Gol visitante</string>
+    <string name="resumen">Resumen</string>
+    <string name="crear">Crear</string>
+
+    <string-array name="sp_equipos">
+        <item>Selecciona un equipo</item>
+        <item>Madrid</item>
+        <item>Valencia</item>
+        <item>Barcelona</item>
+        <item>Betis</item>
+    </string-array>
+</resources>
